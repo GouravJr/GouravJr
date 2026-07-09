@@ -39,22 +39,6 @@ I work at the intersection of:
 
 Previously worked with enterprise data and ML pipelines at **IBM**, and fraud detection systems at **PayPal**, gaining hands-on experience with Python, SQL, production ML, and stakeholder-facing reporting.
 
-<br/>
-
-## ⚡ Quick Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GouravJr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GouravJr&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GouravJr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-<img src="https://github-profile-trophy.vercel.app/?username=GouravJr&theme=tokyonight&no-frame=true&row=1&column=4" height="165"/>
-
-</div>
-
-<br/>
-
 ## 🚀 Featured Project
 
 <table>
